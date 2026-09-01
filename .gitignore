@@ -1,0 +1,27 @@
+node_modules
+dist
+dist-ssr
+dist-artifact
+*.local
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Superseded snapshots — git keeps the history now
+*.bak
+*.before-refactor
+scripts/archive/backups/
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db

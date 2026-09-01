@@ -1,0 +1,4 @@
+agentId: a95aa86c59474b786 (for resuming to continue this agent's work if needed)
+<usage>total_tokens: 59173
+tool_uses: 2
+duration_ms: 703461</usage>

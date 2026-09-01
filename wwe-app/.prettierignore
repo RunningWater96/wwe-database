@@ -1,0 +1,9 @@
+dist/
+node_modules/
+src/data/wrestlers.js
+src/data/extra.js
+src/data/relationships.js
+src/data/images.js
+src/data/bio.js
+src/data/personal.js
+src/data/wiki.js
